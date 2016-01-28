@@ -1,11 +1,10 @@
 **Andrew and Joe walk into a *bar*...**
 
-'''
-git status
-git add
-git commit
-'''
+    git status
+    git add
+    git commit
+
 
 [daringfireball](http://daringfireball.net/projects/markdown/syntax#html)
 
-![screenshot](/phase-0-gps-1/screenshot/screenshot.PNG)
+![screenshot](/screenshot/screenshot.PNG)
