@@ -8,4 +8,4 @@ git commit
 
 [daringfireball](http://daringfireball.net/projects/markdown/syntax#html)
 
-![screenshot](phase-0-gps-1/screenshot/screenshot.png)
+![screenshot](/phase-0-gps-1/screenshot/screenshot.PNG)
