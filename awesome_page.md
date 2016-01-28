@@ -4,7 +4,7 @@
     git add
     git commit
 
-
 [daringfireball](http://daringfireball.net/projects/markdown/syntax#html)
 
-![screenshot](/screenshot/screenshot.PNG)
+![screenshot](/phase-0-gps-1/screenshot/screenshot.jpg)
+
