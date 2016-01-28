@@ -7,3 +7,4 @@
 [daringfireball](http://daringfireball.net/projects/markdown/syntax#html)
 
 ![screenshot](/phase-0-gps-1/screenshot/screenshot.jpg)
+
