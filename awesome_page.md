@@ -7,4 +7,3 @@
 [daringfireball](http://daringfireball.net/projects/markdown/syntax#html)
 
 ![screenshot](/screenshot/screenshot.jpg)
-
