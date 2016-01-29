@@ -1,0 +1,12 @@
+##What git concepts were you struggling with prior to the GPS Session?
+Prior to the GPS Session, I had understood enough to move on with mostly technical, troubleshooting issues. It was only during and after our GPS session where I would struggle with merging conflicts.
+##What concepts were clarified during the GPS?
+Adell further clarified the process of adding and committing by comparing it to the shipping of boxes from a warehouse. You can add as many changes you'd like to a box before you close, or commit them. After you commit them, the boxes can be shipped, or pushed to the remote repository. It was a simple way to think about a seemingly confusing process.
+
+##What questions did you ask your pair and the guide?
+I asked whether I was correct in saying that Git does not track each individual change within a file, but rather tracks the whole state of change within a repository. It seems as though git doesn't know what modifications you actually make. It just knows that you made modifications, and you can commit the entirety of those modifications.
+
+##What still confuses you about git?
+I'm still a bit confused about best practices of getting out of a merge conflict when spot correction is too much. We ended up re-editing one of our files to a correct format and pushing the changes without pulling from the remote repo. This way, we were sure two out of the three repos were aligned. For the other person's repo, we wiped and recreated a new directory and then cloned the remote repo(with the correct code) to the new directory.
+##How was your first experience of pairing in a GPS?
+With a guide, it went relatively smoothly, relative to my expectations. I asked a bit too many questions, which slowed our progress, making my partner and I do the rest of our assignment after time had run out. After, our official GPS session, we worked for an 1.5 hours longer, struggling with having the image show in our .md page and running into a merging conflict right before we were supposed to intentionaly bring one up. We found ourselves surprisingly calm switching back and forth between driver and navigator as each problem seemed to go unsolved. However, we kept making small changes and seeing why prior attempts had not worked. Through repetition, we ended up not only solving the issue, but also solildifying our knowledge of git and markdown.
